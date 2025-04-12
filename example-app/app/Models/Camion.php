@@ -11,21 +11,21 @@ class Camion extends Model
 
     protected $table = 'camion';
     protected $primaryKey = 'id_camion';
-    public $timestamps = false;
+    public $timestamps = true;
 
     protected $fillable = [
         'placa',
         'codigo_interno',
+        'id_transporte', 
+        'id_marca',
         'color',
         'modelo',
-        'capacidad_toneladas',
-        'id_transporte',
-        'id_marca'
+        'capacidad_toneladas'
     ];
 
     public function transporte()
     {
-        return $this->belongsTo(Transporte::class, 'id_transporte');
+        return $this->belongsTo(Transporte::class, 'id_transporte'); 
     }
 
     public function marca()

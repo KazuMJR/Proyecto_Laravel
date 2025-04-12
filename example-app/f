@@ -1,0 +1,42 @@
+[33mcommit 54d8dda557963ee016747131a0e14071aa84c1fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 94533d7 13ce53e
+Author: KazuMJR <160459045+KazuMJR@users.noreply.github.com>
+Date:   Fri Apr 4 18:19:28 2025 -0600
+
+    Implementacion_CRUD
+
+[33mcommit 94533d71cbd89be257f5dc062b9e5210a8b1bf88[m
+Author: KazuMJR <160459045+KazuMJR@users.noreply.github.com>
+Date:   Fri Apr 4 18:12:02 2025 -0600
+
+    Implementacion_CRUD
+
+[33mcommit 13ce53e018c518ca5e0f6b7ca83322484f55b004[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: KazuMJR <160459045+KazuMJR@users.noreply.github.com>
+Date:   Fri Apr 4 17:54:50 2025 -0600
+
+    Delete app directory
+
+[33mcommit 69befe77f66f0f52ab7ceff442a7f3f13f022a77[m
+Author: KazuMJR <160459045+KazuMJR@users.noreply.github.com>
+Date:   Fri Apr 4 17:54:42 2025 -0600
+
+    Delete routes directory
+
+[33mcommit 7681d0de5f037f967337db15e420cb3e5749302a[m
+Author: KazuMJR <160459045+KazuMJR@users.noreply.github.com>
+Date:   Fri Apr 4 17:54:34 2025 -0600
+
+    Delete resources directory
+
+[33mcommit 1c9686a67509f572354d5c281e10e464cb16b170[m
+Author: KazuMJR <160459045+KazuMJR@users.noreply.github.com>
+Date:   Fri Apr 4 17:49:31 2025 -0600
+
+    Implementacion_CRUD
+
+[33mcommit 6cc62b7be47d3e99c10ee94df73ae47d34ae384f[m
+Author: KazuMJR <160459045+KazuMJR@users.noreply.github.com>
+Date:   Sat Mar 15 12:49:10 2025 -0600
+
+    Tarea1_migraciones_seeder_models_fakers
